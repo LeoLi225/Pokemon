@@ -4,7 +4,7 @@
 
 ## Links
 
- Watch it in action [here]()
+ Watch it in action [here](https://scintillating-quokka-b91d29.netlify.app)
 
 ## Features
 - View basic details of each Pokémon
@@ -41,9 +41,6 @@ Demo gif
 - Offline mode
 - Router for Pokemon details
 
-## Credits
-
-- [Scroll to top](https://juliapottinger.com/react-gatsby-scroll-to-top/)
 
 ##
 
